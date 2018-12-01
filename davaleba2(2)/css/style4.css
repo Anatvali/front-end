@@ -1,0 +1,53 @@
+body {
+	padding: 30px;
+}
+/*header*/
+header {
+	margin-bottom: 30px;
+}
+
+.logo img {
+	height: 30px;
+}
+.logo {
+	height: 30px;
+	vertical-align: middle;
+	margin-right: 50px;
+ }
+ .active {
+ 	color:#EE4036;
+ }
+.d-inline-block {
+	display: inline-block;
+}
+.nav-li {
+	margin-right: 50px;
+}
+.nav-a {
+	color: #3D58A6;
+	font-size: 22px; 
+	font-weight: bold;
+}
+.div-banner img {
+	height: : 460px;
+	padding: 30px 145px 120px 145px;
+}
+.div-feature {
+	height: 125px;
+}
+.div-app {
+	height: 125px;
+}
+.title {
+	color: black;
+	font-size: 24px
+	font-weight: bold;
+	background-color: pink;
+}
+.features {
+	padding:30px 30px 70px;
+}
+/*footer*/
+.footer-li img {
+	height: 30px;
+}
